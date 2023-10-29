@@ -1,6 +1,6 @@
 # Citi_bike_challenge
  Below is the link for the project
-https://public.tableau.com/shared/535HSWK2Y?:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/citi_bikes_16981535420360/citi_bike?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
 
 Summary
 
