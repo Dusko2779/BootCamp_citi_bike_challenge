@@ -4,7 +4,14 @@ https://public.tableau.com/shared/535HSWK2Y?:display_count=n&:origin=viz_share_l
 
 Summary
 
+Data Source
+
+To kick off the project, I began by procuring the monthly CSV files spanning from January 2020 to June 2020, which were available on the Citi Bike Data webpage. These files were then meticulously arranged and stored within a specific folder that I named "data."
+
+Following this, I initiated the creation of a Jupyter Notebook file labeled "NY_Citi_Bike_Challenge_6m.ipynb." The primary objective of this notebook was to systematically carry out the tasks of cleaning and merging all the individual monthly CSV files into a unified CSV file. This consolidated file was to be prepared for subsequent importation into Tableau.
+
 User Dashboard
+
 An analysis of the data pertaining to the first half of 2020 in New York City reveals some intriguing trends in bicycle usage. During this time period, there was a notable total of 7,508,808 trips made via bicycles. These trips can be categorised into two distinct user types: subscribers and customers, with subscribers accounting for a substantial majority at 79%, while customers comprise the remaining 21% of the total trips.
 
 The data also unveils that June emerges as the most favored month for bicycle travel, with over 1.8 million trips recorded during this period. When examining travel patterns throughout the week, it is evident that on weekdays, the peak travel times are concentrated between 7-8 am and 5-6 pm. Conversely, on weekends, the preferred time for bicycle trips shifts to the range between 1-5 pm.
@@ -35,3 +42,4 @@ One conspicuous trend of note is the substantial surge in Citibike utilisation d
 Furthermore, another noteworthy phenomenon arises from the stark gender imbalance in Citibike users, with males constituting close to 70% of all user types. This gender disparity raises questions and merits further investigation into the underlying factors driving this skew, potentially shedding light on gender-specific preferences or barriers within the bike-sharing ecosystem.
 
 It is our aspiration that this analytical exploration not only enlightens but also catalyses additional research endeavors, encouraging fellow analysts to conduct more in-depth inquiries into the dataset, thereby extending and refining the valuable insights presented herein.
+
