@@ -1,8 +1,8 @@
-# Citi_bike_challenge
+# Module_18_Citi_Bike_Challenge
  Below is the link for the project
 https://public.tableau.com/views/citi_bikes_16981535420360/citi_bike?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
 
-Summary
+### Summary
 
 Data Source
 
@@ -10,7 +10,7 @@ To kick off the project, I began by procuring the monthly CSV files spanning fro
 
 Following this, I initiated the creation of a Jupyter Notebook file labeled "NY_Citi_Bike_Challenge_6m.ipynb." The primary objective of this notebook was to systematically carry out the tasks of cleaning and merging all the individual monthly CSV files into a unified CSV file. This consolidated file was to be prepared for subsequent importation into Tableau.
 
-User Dashboard
+###User Dashboard
 
 An analysis of the data pertaining to the first half of 2020 in New York City reveals some intriguing trends in bicycle usage. During this time period, there was a notable total of 7,508,808 trips made via bicycles. These trips can be categorised into two distinct user types: subscribers and customers, with subscribers accounting for a substantial majority at 79%, while customers comprise the remaining 21% of the total trips.
 
@@ -18,11 +18,14 @@ The data also unveils that June emerges as the most favored month for bicycle tr
 
 A particularly intriguing discovery is that among both male and female cyclists, 33-year-olds are the most active participants in terms of trip frequency. This suggests a common age group preference for bicycle commuting. Notably, the data reveals a gender disparity, as males account for just under 70% of the total number of commuters in New York City, highlighting a significant gender skew in bicycle usage patterns. These findings offer valuable insights into the dynamics of bicycle commuting in New York City during the first half of 2020, shedding light on user demographics, preferred times for travel, and the prominence of subscribers in the bicycle-sharing ecosystem.
 
-Maps Dashboard 
+![image](https://github.com/Dusko2779/BootCamp_citi_bike_challenge/assets/134830906/d8c706d1-fad8-4bee-bc29-e42df7740e34)
+
+
+### Maps Dashboard 
 
 The distribution of bike stations for both starting and ending points exhibits a notable concentration in key boroughs, primarily Manhattan, Long Island, and Brooklyn. This concentration underscores the strategic placement of stations in densely populated and highly traversed areas, reflecting a well-planned and effective network catering to urban mobility needs.
 
-Stations Dashboard
+### Stations Dashboard
 
 During the initial half of 2020, the utilisation of bicycles in New York City amounted to a total of 17,190 bikes, deployed across 973 starting and 995 ending stations. This extensive network facilitated an impressive cumulative distance of 9,212,492 kilometers traveled by these bicycles. Notably, the average trip duration displayed seasonal variations, with June recording the lengthiest average trip duration at 27 minutes, aligning with the pleasant weather conditions conducive to extended outdoor activities, while January exhibited the shortest duration at 13 minutes, reflective of the winter season and associated inclement weather conditions, including snowfall in New York City.
 
@@ -33,7 +36,10 @@ It is worth noting that the month of June not only displayed the longest average
 This comprehensive analysis provides insights into the patterns of bicycle usage in New York City during the first half of 2020, encompassing factors such as seasonality, popular stations, peak hours, and the intriguing variations in monthly and weekly trip counts, offering a foundation for further investigation and informed decision-making regarding urban transportation and bicycle-sharing initiatives. 
 
 
-Conclusion
+![image](https://github.com/Dusko2779/BootCamp_citi_bike_challenge/assets/134830906/74c082f2-82c6-4640-8264-2d8874ce3fba)
+
+
+### Conclusion
 
 In essence, this Tableau analysis provides a comprehensive perspective on the intricate patterns of Citibike usage within a specific timeframe. Through the utilisation of interactive dashboards and data visualisations, we've successfully unearthed pivotal insights related to user characteristics, daily usage trends, and intriguing behavioral phenomena.
 
